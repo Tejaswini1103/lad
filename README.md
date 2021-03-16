@@ -1,3 +1,3 @@
 # lad
 hi ther! 
-welocme to lad
+welocome to lad:
